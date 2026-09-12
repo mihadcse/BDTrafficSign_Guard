@@ -1,0 +1,31 @@
+# Large analysis exports
+bd_trafficguard_analysis_exports/
+bd_trafficguard_analysis_exports.zip
+
+# Jupyter notebooks
+*.ipynb
+
+# Large ML/model files
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated outputs
+runs/
+outputs/
+results/
+
+# Archives
+*.zip
+
+# Temporary files
+*.tmp
