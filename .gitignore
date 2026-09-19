@@ -2,8 +2,6 @@
 bd_trafficguard_analysis_exports/
 bd_trafficguard_analysis_exports.zip
 
-# Jupyter notebooks
-*.ipynb
 
 # Large ML/model files
 *.pt
